@@ -1,0 +1,2 @@
+gdown==4.7.1        # For Google Drive downloads
+megapy==0.3.0       # Optional if you ever add MEGA support later
