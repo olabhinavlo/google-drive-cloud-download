@@ -88,7 +88,7 @@ def main():
         elif is_torrent(url):
             download_torrent(url)
         else:
-            download_direct(url)
+            download_direct(url) 
         print("\n✅ All done!")
     except KeyboardInterrupt:
         print("\n❌ Download interrupted by user")
